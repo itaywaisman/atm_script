@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/itaywaisman/atm_script/issues"
   },
+  "bin": {
+    "atm": "./run.js"
+  },
   "homepage": "https://github.com/itaywaisman/atm_script#readme"
 }
