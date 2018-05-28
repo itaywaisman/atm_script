@@ -1,0 +1,19 @@
+{
+  "name": "atm_script",
+  "version": "1.0.0",
+  "description": "A simple script to watch, assemble and run the simulator in ATM course",
+  "main": "run.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itaywaisman/atm_script.git"
+  },
+  "author": "Itay Waisman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itaywaisman/atm_script/issues"
+  },
+  "homepage": "https://github.com/itaywaisman/atm_script#readme"
+}
